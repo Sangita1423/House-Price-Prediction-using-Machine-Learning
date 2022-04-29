@@ -1,7 +1,7 @@
 # House-Price-Prediction-using-Machine-Learning
 Goal
 
-It is your job to predict the sales price for each house. For each Id in the test set, you must predict the value of the SalePrice variable. 
+It is my job to predict the sales price for each house. For each Id in the test set, I must predict the value of the SalePrice variable. 
 
 Metric
 
@@ -27,7 +27,13 @@ House Prices EDA
 
 Learn to use visualization techniques to study missing data and distributions
 Includes correlation heatmaps, pairplots, and t-SNE to help inform appropriate inputs to a linear model
-A Study on Regression Applied to the Ames Dataset
+A Study on Regression Applied to the Ames Dataset.
+
+Images before and after handling missing values:
+
+![image](https://user-images.githubusercontent.com/88077075/165921932-deed26fb-8539-4b28-83a9-b39342ff091e.png)
+
+![image](https://user-images.githubusercontent.com/88077075/165922480-fd385391-5832-4ca2-948d-98fab0a735c3.png)
 
 Demonstrate effective tactics for feature engineering
 
