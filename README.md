@@ -10,3 +10,10 @@ Submissions are evaluated on Root-Mean-Squared-Error (RMSE) between the logarith
 Submission File Format
 
 The file should contain a header and have the following format:
+
+Id,SalePrice
+1461,169000.1
+1462,187724.1233
+1463,175221
+etc.
+ 
